@@ -24,10 +24,7 @@ Here is what the analysis covers:
 ---
 
 ## The Dashboard
-
-![Dashboard Output](Exploratory Data Analysis/dashboard.png)
-
----
+<img width="1918" height="1078" alt="dashboard" src="https://github.com/user-attachments/assets/47d4e083-eb33-45d6-a1f1-148b9a4b182e" />
 
 ## Want to run it yourself?
 
