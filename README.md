@@ -25,7 +25,7 @@ Here is what the analysis covers:
 
 ## The Dashboard
 
-![Dashboard Output](dashboard.png)
+![Dashboard Output](Exploratory Data Analysis/dashboard.png)
 
 ---
 
@@ -40,5 +40,5 @@ If you want to poke around the code or run the analysis on your machine, it's su
    ```
 3. Clone this repo, open the folder in your terminal, and run the script:
       ```bash
-   
+   py [project-name].py
    ```
